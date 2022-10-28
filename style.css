@@ -1,0 +1,95 @@
+h5{position: absolute;
+    left: 50px;
+   font-family: verdana;
+   }
+    table{border: 3px solid rgb(87, 87, 87);
+    border-spacing: 0px;
+   position: absolute;
+    top: 46vw;
+    left: 2vw;
+    font-size: 30px;
+    align-items: center;
+   }
+  th{border: 1px solid rgb(87, 87, 87);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px ;
+    background-color: rgba(127, 255, 212, 0.575);
+    font-family: century gothic;
+    }
+    td{border: 1px solid rgb(87, 87, 87);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px ;
+    background-color: rgba(127, 255, 212, 0.253);
+    font-family: century gothic;
+    }
+    ul{color: rgb(255, 255, 255);
+       font-family:century gothic;
+       font-size:30px;
+       filter: drop-shadow(0 0 0.30rem rgb(0, 0, 0));
+         
+    }
+   
+    .rcorners1 {
+        position: absolute;
+                  top: 75px;
+                  left: 800px;
+         border-radius: 25px;
+          background: #ffffff;
+         padding: 20px;
+         width: 590px;
+         height: 80px;
+         filter: drop-shadow(0 0 0.75rem rgb(0, 0, 0));
+        }
+    img {             
+         min-width: 100%; 
+          opacity: 0.5;    
+        }
+        .square {
+        border: 8px solid rgb(82, 82, 82);
+        width: 93vw;
+        height: 30vw;
+        padding-left: 10px;
+        padding-right: 10px;        
+        padding-top: 20px;        
+        filter: drop-shadow(0 0 0.75rem rgb(99, 99, 99));        
+                }
+     #txt{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 55px;
+            color: gold;
+             }
+
+     #hrpose{
+                  position: absolute;
+                  top: 100px;
+                  left: 100px;
+                  padding-left: 10px;
+                 padding-right: 10px;        
+                 padding-top: 20px;
+               }
+
+    .toptext {
+                  position: absolute;
+                  top: 100px;
+                  left: 16px;
+                  padding-left: 10px;
+                 padding-right: 10px;        
+                 padding-top: 20px;
+               }
+      h1{
+          font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          font-size: 45px;
+          font-style:thin;
+          color: whitesmoke;
+          filter: drop-shadow(0 0 0.30rem rgb(70, 70, 70));
+         }
+      ul{
+          position: absolute;
+          top: 25vw;
+      }
